@@ -1,3 +1,2 @@
-# from GitHub
-- src: https://github.com/redhat-sap/sap-hana-deployment.git
-  version: feature/refactor
+# from galaxy
+- src: redhat_sap.sap_hana_deployment
